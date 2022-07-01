@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.29879db1.css",
-    "main.js": "/static/js/main.56b3cdd4.js",
-    "index.html": "/index.html",
-    "main.29879db1.css.map": "/static/css/main.29879db1.css.map",
-    "main.56b3cdd4.js.map": "/static/js/main.56b3cdd4.js.map"
+    "main.css": "/Mohamed-125/todo-list-with-backend-.git/static/css/main.29879db1.css",
+    "main.js": "/Mohamed-125/todo-list-with-backend-.git/static/js/main.56b3cdd4.js",
+    "index.html": "/Mohamed-125/todo-list-with-backend-.git/index.html",
+    "main.29879db1.css.map": "/Mohamed-125/todo-list-with-backend-.git/static/css/main.29879db1.css.map",
+    "main.56b3cdd4.js.map": "/Mohamed-125/todo-list-with-backend-.git/static/js/main.56b3cdd4.js.map"
   },
   "entrypoints": [
     "static/css/main.29879db1.css",
